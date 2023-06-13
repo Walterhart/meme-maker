@@ -11,6 +11,6 @@
   font-family: inherit;
 }
 
-.formColumn {
+.formColumn { 
   grid-column: 1 / -1;
 }
