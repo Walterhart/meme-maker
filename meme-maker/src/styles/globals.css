@@ -61,10 +61,11 @@ nav li a {
   color: #90ee90;
 }
 
-nav li a:hover{
+nav li a:hover {
   color: #000066;
 }
-.formButton{
+
+.formButton {
   color: inherit;
   font-weight: bold;
   width: 100%;
@@ -81,7 +82,7 @@ nav li a:hover{
 
 .container {
   width: 100%;
-  
+
   margin: 0 auto;
 }
 
